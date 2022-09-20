@@ -3,6 +3,12 @@
 - 看看從C 程式產生的組合語言程式和objdump逆向得到的組合語言
 - 請自行設計或找C程式設計書籍範例練習
 
+# 開發環境
+- 雲端online compiler
+- Windows 
+- Linux gcc
+
+
 # 基礎 C 程式設計
 ```
 1 輸出與輸入
